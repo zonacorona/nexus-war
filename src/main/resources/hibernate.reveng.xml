@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+ 
+	<table-filter match-name="latestwardeploy" />
+    <!-- 	
+	<table-filter match-name="status" />
+	
+	<table-filter match-name="groups" />
+	<table-filter match-name="freeze" />
+	<table-filter match-name="deployjobs" />
+	
+	<table-filter match-name="members" />
+	<table-filter match-name="deployjob" />
+	-->	
+</hibernate-reverse-engineering>
